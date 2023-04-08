@@ -1,4 +1,4 @@
-# Introduciton to Tailwind CSS
+# Introduction to Tailwind CSS
 
 Setting up your first Tailwind project.
 
