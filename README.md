@@ -1,6 +1,6 @@
 # Introduction to Tailwind CSS
 
-> **Warning**  
+> [!Warning]  
 > This repo is a work in progress!
 
 Setting up your first Tailwind project.
